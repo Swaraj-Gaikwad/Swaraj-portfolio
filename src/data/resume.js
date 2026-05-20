@@ -9,7 +9,7 @@ export const resumeData = {
       id: 1,
       position: 'SDE Intern',
       company: 'CAPX FINSERV LTD',
-      period: 'June 2025 - Nov 2025',
+      period: 'July 2025 - Dec 2025',
       description: 'Built scalable financial services applications',
       skills: ['React.js', 'Node.js', 'Express', 'JWT', 'API Optimization'],
       highlights: [
